@@ -1,0 +1,5 @@
+<div ng-repeat="queue in queues">
+  <a ui-sref="queues.details({id: queue.name})">{{queue.name}}</a>
+</div>
+
+<div ui-view></div>

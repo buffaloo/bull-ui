@@ -1,0 +1,27 @@
+{
+  "name": "bull-ui",
+  "version": "0.0.1",
+  "description": "Angular based UI for Bull",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OptimalBits/bull-ui.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bull"
+  ],
+  "author": "Manuel Astudillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OptimalBits/bull-ui/issues"
+  },
+  "homepage": "https://github.com/OptimalBits/bull-ui",
+  "dependencies": {
+    "express": "^4.13.3",
+    "sconf": "0.0.4"
+  }
+}

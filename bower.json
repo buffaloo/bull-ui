@@ -1,0 +1,27 @@
+{
+  "name": "bull-ui",
+  "version": "0.0.1",
+  "homepage": "https://github.com/OptimalBits/bull-ui",
+  "authors": [
+    "Manuel Astudillo <manuel@optimalbits.com>"
+  ],
+  "description": "Angular UI for bull",
+  "main": "app/app.js",
+  "keywords": [
+    "bull"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-bootstrap": "~0.13.4",
+    "angular-ui-router": "~0.2.15",
+    "html5-boilerplate": "~5.2.0"
+  }
+}
